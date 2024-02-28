@@ -1,2 +1,5 @@
-# HartreeInterview
-A collection of interview tasks for potential candidates for the UK Power team.
+# Hartree Technical Exercise
+
+Below is a series of questions targeted at testing your technical skills using Python and Excel.
+
+
